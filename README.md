@@ -7,7 +7,7 @@ Aspiring Software Developer with a strong foundation in *Full-stack development*
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rahul-patel-70265126b)
-- [GitHub](https://github.com/puneetsharma0910)
+- [GitHub](https://github.com/appy-spec)
 - [LeetCode](https://leetcode.com/u/RahulP74/)
 
 ---
