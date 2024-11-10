@@ -46,9 +46,6 @@ Aspiring Software Developer with a strong foundation in *Full-stack development*
 - *FullStack Developer Intern @ Suven Consultants* (Aug 2023 - Sep 2023)  
   - Built and deployed responsive web applications with a focus on scalability and maintainability.
 
-- *Web Development & UI Intern @ VentureLattice* (Mar 2022 - Jul 2022)  
-  - Developed multiple websites, leveraging tools like Angular and Bootstrap to boost user engagement.
-
 ---
 
 
