@@ -36,7 +36,7 @@ Aspiring Software Developer with a strong foundation in Full-Stack Development a
 ## 🌱 My Journey
 
 ### Work Experience
-- *Software Developer Intern @ Zidio Development* (Aug 2024 - Present)  
+- *Software Developer Intern @ Zidio Development* (Aug 2024 - Oct 2024)  
   - Developed and maintained responsive web applications aligned with client requirements.
   - Optimized API calls and improved front-end performance and user experience.
   - Ensured timely delivery using best coding and design practices.
