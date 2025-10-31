@@ -36,12 +36,12 @@ Aspiring Software Developer with a strong foundation in Full-Stack Development a
 ## 🌱 My Journey
 
 ### Work Experience
-- *Software Development Intern @ Zidio Development* (Aug 2024 - Present)  
+- *Software Developmer Intern @ Zidio Development* (Aug 2024 - Present)  
   - Developed and maintained responsive web applications aligned with client requirements.
   - Optimized API calls and improved front-end performance and user experience.
   - Ensured timely delivery using best coding and design practices.
   - 
-- *FullStack Developer Intern @ Suven Consultants* (Aug 2023 - Sep 2023)  
+- *  Web Developer Intern @ Suven Consultants* (Aug 2023 - Sep 2023)  
   - Built and deployed responsive web apps while collaborating with cross-functional teams.
   - Improved app load time by 20% through performance tuning and clean code.
   - Enhanced scalability and maintainability across multiple projects.
