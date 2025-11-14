@@ -50,7 +50,7 @@ Aspiring Software Developer with a strong foundation in Full-Stack Development a
 
 ## 🚀 Featured Projects
 - *🏨 [InstaStay](https://github.com/appy-spec/InstaStay)*  
-  - A MERN-based hotel booking app inspired by Airbnb, featuring user authentication, property management, reviews, and map integration.  
+  - A MERN-based hotel booking app inspired by Hotel Booking, featuring user authentication, property management, reviews, and map integration.  
   - **Tech Stack:** Node.js, Express.js, MongoDB, EJS, JavaScript  
   - Integrated MapBox API for real-time location display and Cloudinary for image uploads.  
   - Followed MVC architecture and modular design principles for maintainability.  
